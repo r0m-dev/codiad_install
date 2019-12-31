@@ -1,5 +1,4 @@
-# Codiad install
-## Codiad quick install in Debian 10
+# Codiad quick install in Debian 10
 
 Install prerequisite
 
